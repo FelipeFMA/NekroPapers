@@ -1,4 +1,5 @@
 # NekroPapers
+- They are monochromatic so it should be easy to adapt to any color scheme. ☯︎
 
 ### Arch (It translates to "Arch")
 ![Arch](https://github.com/FelipeFMA/NekroPapers/assets/30672253/e0c7d85c-9cd7-4064-8762-1bd7246394a7)
