@@ -13,5 +13,8 @@
 ### Debian (It translates to "Stability")
 ![Debian](https://github.com/FelipeFMA/NekroPapers/assets/30672253/1fe2e799-5911-44f1-ba44-17e1f541b782)
 
-### Mint (It translates to "fresh mint")
+### Mint (It translates to "Fresh mint")
 ![Mint](https://github.com/FelipeFMA/NekroPapers/assets/30672253/8bcc6b0f-c5d6-4bd1-818b-5e73808060ef)
+
+### Zorin (It translates to "Elegant")
+![Zorin](https://github.com/FelipeFMA/NekroPapers/assets/30672253/830f4cc1-8ce2-4be7-926b-541f5cfbba60)
