@@ -9,3 +9,6 @@
 
 ### Void (It translates to "Void philosophy")
 ![Void](https://github.com/FelipeFMA/NekroPapers/assets/30672253/1ff8a64b-c853-40d0-9ea6-efc6745625c2)
+
+### Debian (It translates to "Stability")
+![Debian](https://github.com/FelipeFMA/NekroPapers/assets/30672253/1fe2e799-5911-44f1-ba44-17e1f541b782)
